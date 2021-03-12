@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on project called Movies Data Visualization Dashboard
 
-😄 I am Master's student, who is passionate about the technology. I enjoy exploring new technologies to get better knowledge over IT industry
+😄 I am Master's student, who is passionate about the technology. I enjoy exploring new technologies to get good knowledge regarding IT industry.
 
 ### Technologies I know 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=9d72ff)

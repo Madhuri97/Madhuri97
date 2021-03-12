@@ -5,18 +5,18 @@
 😄 Pronouns: Madhuri, people who know me well will call me Maddie
 
 ### Technologies I know
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-BootStrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=9d72ff)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=9d72ff)
+![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=9d72ff)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=9d72ff)
+![](https://img.shields.io/badge/Code-BootStrap-informational?style=flat&logo=bootstrap&logoColor=white&color=9d72ff)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9d72ff)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=9d72ff)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=9d72ff)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=9d72ff)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=9d72ff)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhuri97&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Madhuri's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhuri97&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=9d72ff&bg_color=2bbc8a" alt="Madhuri's GitHub Stats" />
 <!--
 **Madhuri97/Madhuri97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

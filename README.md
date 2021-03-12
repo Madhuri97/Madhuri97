@@ -1,10 +1,10 @@
-## Hi, I'm  [Madhuri!](https://Madhuri97.github.io) <img alt="Madhuri" width="30px" src="https://github.com/Madhuri97/Madhuri97/blob/main/yogocat_animation.gif" />
+## Hi, I'm  [Madhuri!](https://Madhuri97.github.io) <img alt="Madhuri" width="40px" src="https://github.com/Madhuri97/Madhuri97/blob/main/yogocat_animation.gif" />
 
 #### 👩‍💻 My Website: [www.madhuri.com](https://madhuri97.github.io/Just_Did/MySinglePage_Website/SinglePageWebsite.html) 
 
 🔭 I’m currently working on project called Movies Data Visualization Dashboard
 
-😄 Pronouns: Madhuri, people who know me well will call me Maddie
+😄 Pronouns: Madhuri
 
 ### Technologies I know 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=9d72ff)

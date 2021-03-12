@@ -25,6 +25,12 @@
 <a href="https://twitter.com/MadhuriNaidu15">
   <img align="left" alt="Madhuri | Twitter" width="21px" src="https://github.com/Madhuri97/Madhuri97/blob/main/twitter.png" />
 </a>
+<a href="https://www.linkedin.com/in/lakshmi-madhuri-muddala-200b64162/">
+  <img align="left" alt="Madhuri | LinkedIn" width="21px" src="https://github.com/Madhuri97/Madhuri97/blob/main/linkedin.png" />
+</a>
+<a href="madhurinaidu1997@gmail.com">
+  <img align="left" alt="Madhuri | Gmail" width="21px" src="https://github.com/Madhuri97/Madhuri97/blob/main/gmail.png" />
+</a>
 
 <!--
 **Madhuri97/Madhuri97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

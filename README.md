@@ -1,4 +1,4 @@
-### Hi, I'm Lakshmi Madhuri 👋 <img src="https://github.com/Madhuri97/Madhuri97/blob/main/namasthe.gif" width="30px">
+### Hi, I'm Lakshmi Madhuri <img src="" width="30px">
 
 <!--
 **Madhuri97/Madhuri97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

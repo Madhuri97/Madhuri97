@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=9d72ff)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=9d72ff)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhuri97&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=9d72ff&bg_color=2bbc8a" alt="Madhuri's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhuri97&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=9d72ff&bg_color=1d1f21" alt="Madhuri's GitHub Stats" />
 <!--
 **Madhuri97/Madhuri97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

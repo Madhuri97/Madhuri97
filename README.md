@@ -23,7 +23,7 @@
 
 ### Find Me Around Web 🌏:
 <a href="https://twitter.com/MadhuriNaidu15">
-  <img align="left" alt="Madhuri | Twitter" width="21px" src="" />
+  <img align="left" alt="Madhuri | Twitter" width="21px" src="https://github.com/Madhuri97/Madhuri97/blob/main/twitter.png" />
 </a>
 
 <!--

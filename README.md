@@ -1,4 +1,4 @@
-### Hi, I'm Lakshmi Madhuri <img src="https://github.com/Madhuri97/Madhuri97/blob/main/peace.gif" width="40px" padding-top="10px">
+### Hi, I'm Lakshmi Madhuri <img src="https://github.com/Madhuri97/Madhuri97/blob/main/peace.gif" width="40px" top="10px">
 
 🔭 I’m currently working on project called Movies Data Visualization Dashboard
 
@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=9d72ff)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhuri97&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Madhuri's GitHub Stats" />
 <!--

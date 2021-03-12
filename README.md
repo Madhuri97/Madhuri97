@@ -1,5 +1,7 @@
 ## Hi, I'm  [Madhuri!](https://Madhuri97.github.io)👩‍💻
 
+#### My Website: [www.madhuri.com!](https://madhuri97.github.io/Just_Did/MySinglePage_Website/SinglePageWebsite.html) <img align="right" alt="Madhuri" width="25px" src="https://github.com/Madhuri97/Madhuri97/blob/main/yogocat_animation.gif" />
+
 🔭 I’m currently working on project called Movies Data Visualization Dashboard
 
 😄 Pronouns: Madhuri, people who know me well will call me Maddie

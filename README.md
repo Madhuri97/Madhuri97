@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on project called Movies Data Visualization Dashboard
 
-😄 Pronouns: Madhuri
+😄 I am Master's student, whos is passionate about the technology. I enjoy exploring new technologies to get better knowledge over IT industry
 
 ### Technologies I know 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=9d72ff)
@@ -40,8 +40,6 @@
 **Madhuri97/Madhuri97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

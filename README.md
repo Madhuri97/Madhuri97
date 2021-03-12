@@ -1,4 +1,4 @@
-### Hi, I'm  [Madhuri!](https://Madhuri97.github.io) <img src="https://github.com/Madhuri97/Madhuri97/blob/main/peace.gif" width="50px" top="5px">
+## Hi, I'm  [Madhuri!](https://Madhuri97.github.io) <img src="https://github.com/Madhuri97/Madhuri97/blob/main/peace.gif" width="50px">
 
 🔭 I’m currently working on project called Movies Data Visualization Dashboard
 

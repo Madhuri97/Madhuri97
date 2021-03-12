@@ -28,8 +28,8 @@
 <a href="https://www.linkedin.com/in/lakshmi-madhuri-muddala-200b64162/">
   <img align="left" alt="Madhuri | LinkedIn" width="21px" src="https://github.com/Madhuri97/Madhuri97/blob/main/linkedin.png" />
 </a>
-<a href="madhurinaidu1997@gmail.com">
-  <img align="left" alt="Madhuri | Gmail" width="21px" src="https://github.com/Madhuri97/Madhuri97/blob/main/gmail.png" />
+<a href="https://www.facebook.com/madhuri.naidu.5036/">
+  <img align="left" alt="Madhuri | Gmail" width="21px" src="https://github.com/Madhuri97/Madhuri97/blob/main/facebook.png" />
 </a>
 <a href="https://t.me/Dynamic_coder30">
   <img align="left" alt="Madhuri | Telegram" width="21px" src="https://github.com/Madhuri97/Madhuri97/blob/main/telegram.png" />

@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=9d72ff)
 
 ### GitHub Stats 📊
-![Madhuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhuri97&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhuri97&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuri97&layout=compact&theme=tokyonight&card_width=450px)
 

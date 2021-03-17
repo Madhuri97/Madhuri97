@@ -23,7 +23,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhuri97&layout=compact&theme=tokyonight&card_width=450px)
 
-##### Find Me Around Web 🌏:
+##### Find Me Around Web 🌏: 
 <a href="https://twitter.com/MadhuriNaidu15">
   <img align="left" alt="Madhuri | Twitter" width="21px" src="https://github.com/Madhuri97/Madhuri97/blob/main/twitter.png" />
 </a>

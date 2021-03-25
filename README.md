@@ -1,6 +1,7 @@
 ## Hi, I'm  [Madhuri!](https://Madhuri97.github.io) <img alt="Madhuri" width="40px" src="https://github.com/Madhuri97/Madhuri97/blob/main/yogocat_animation.gif" />
 
 #### 👩‍💻 My Website: [www.madhuri.com](https://madhuri97.github.io/Just_Did/MySinglePage_Website/SinglePageWebsite.html) 
+#### 🧑🏻‍🎓My Project:[msitstudentdetails](https://studentdatafrontend.herokuapp.com/)
 
 🔭 I’m currently working on project called Movies Data Visualization Dashboard
 

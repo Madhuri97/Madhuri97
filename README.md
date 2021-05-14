@@ -3,7 +3,7 @@
 #### 👩‍💻 My Website: [www.madhuri.com](https://madhuri97.github.io/Just_Did/MySinglePage_Website/SinglePageWebsite.html) 
 #### 👤 My Project: [msitstudentdetails](https://msitstudentdetails.netlify.app/)
 
-🔭 I’m currently working on project called [Movies Data Visualization Dashboard](https://github.com/Madhuri97/MoviesData_Analysis_Visualization_Team9)
+#### 🔭 I’m currently working on project called [Movies Data Analysis and Visualization Dashboard](https://github.com/Madhuri97/MoviesData_Analysis_Visualization_Team9)
 
 😄 I am Master's student, who is passionate about the technology. 
 

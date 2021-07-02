@@ -4,7 +4,7 @@
 #### 👤 My Project: [msitstudentdetails](https://msitstudentdetails.netlify.app/)
 #### GitHub Graduation 2021: [😊](https://education.github.com/graduation/yearbook?sort=az&page=12&search=Madhuri97#Madhuri97)
 
-<!-- #### 🔭 I’m currently working on project called [Movies Data Analysis and Visualization Application](https://github.com/Madhuri97/MoviesData_Analysis_Visualization_Team9) -->
+#### 🔭 I worked on project of my data science specialization called [Movies Data Analysis and Visualization Application](https://github.com/Madhuri97/MoviesData_Analysis_Visualization_Team9), please click to visit [website](https://share.streamlit.io/specializationdatascienceproject-2021/movies_data_analysis_and_visualization_app/main/App.py)
 
 😄 I am Master's student, who is passionate about the technology. 
 
